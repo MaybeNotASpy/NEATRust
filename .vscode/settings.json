@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./neatrust_lib/Cargo.toml",
+        "./neatrust_lib/Cargo.toml"
+    ]
+}
